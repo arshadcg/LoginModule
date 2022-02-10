@@ -5,8 +5,8 @@
 
 		<form action="Login" method="post">
 		
-		Enter the username: <input type="text" name="uname" ><br>
-		Enter the password: <input type="password" name="pass" ><br>
+		Enter the NAME: <input type="text" name="uname" ><br>
+		Enter the PASSWORD: <input type="password" name="pass" ><br>
 		
 		<input type="submit" value="login">
 		
